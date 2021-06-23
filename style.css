@@ -1,0 +1,51 @@
+body,h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Open Sans', sans-serif;
+}
+/* header */
+.logo img {
+    margin-left: 20px;
+    margin-right: 8px;
+}
+/* discover */
+.default-color{
+    background: #f9f9ff;
+}
+.discover-right img {
+    width: 400px;
+    margin-top: -60px;
+}
+/* about */
+.about img {
+    width: 500px;
+}
+/* buy */
+.buy-one {
+    background: #f9f9ff;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.buy-one h5 {
+    line-height: 100px;
+    font-size: 30px;
+}
+/* jason */
+.jason {
+    padding-top: 90px !important;
+}
+.history-img {
+    width: 90px;
+    position: relative;
+    top: -50px;
+    left: 15px;
+}
+/* contact-form */
+.contact-form-text {
+    margin-top: 145px;
+    margin-left: 45px;
+}
+/* footer */
+.footer-text p {
+    margin-top: 15px;
+}
